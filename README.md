@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rosario <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Rosario <img height="40" img width="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 - 👀 I’m interested in all the branch of the computer science
 - 🌱 I’m currently learning Javascript and Python
