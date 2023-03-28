@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosario <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 - 👀 I’m interested in all the branch of the computer science
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning Javascript and Python
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 📫 How to reach me: Rondocata00@gmail.com
 - ⚡ What I like to do: **I like so much sports, reading and travelling**
@@ -34,9 +34,3 @@
 ------
 
 [Catalfa](https://github.com/Catalfa)
-
-Last Edited on: 10/04/2022
-<!---
-SimoravaIT/SimoravaIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
