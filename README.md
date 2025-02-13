@@ -3,7 +3,7 @@
 - 👀 I’m interested in all the branch of the computer science
 - 🌱 I’m currently learning Javascript and Python
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
-- 📫 How to reach me: Rondocata00@gmail.com
+- 📫 How to reach me: r.catalfamo00@gmail.com
 - ⚡ What I like to do: **I like so much sports, reading and travelling**
 
 <h3 align="center">Connect with me:</h3>
